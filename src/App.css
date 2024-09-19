@@ -1,0 +1,11 @@
+/* Add a gray background with rounded-pill effect on hover */
+.hover-link {
+  padding: 8px 15px;
+  transition: background-color 0.3s ease;
+}
+
+.hover-link:hover {
+  background-color: #f0f0f0; /* Gray background on hover */
+  color: black;
+  border-radius: 50px; /* Rounded-pill effect */
+}
