@@ -59,7 +59,7 @@ const HeroSection = () => {
               src="./assets/download (3).webp"
               alt="T-shirt"
               className="img-fluid p-2"
-              style={{ width: '600px', height: '600px', objectFit: 'cover' }}
+              style={{ width: '600px', height: '600px', objectFit: 'contain' }}
             />
           </div>
         </div>
